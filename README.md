@@ -1,4 +1,4 @@
-###📂 DocuMind
+### 📂 DocuMind
 DocuMind is a serverless document management application that leverages AI to provide summarization and title suggestion for your uploaded text files. The entire infrastructure is managed with Terraform.
 
 ## Features
